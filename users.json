@@ -2,21 +2,33 @@
     "users": [
       {
         "id": 1,
-        "name": "bruno",
-        "email": "bruno@email.com",
-        "password": "bruno"
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "password": "Sincere"
       },
       {
         "id": 2,
-        "name": "techie",
-        "email": "techie@email.com",
-        "password": "techie"
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "password": "Shanna"
       },
       {
         "id": 3,
-        "name": "nilson",
-        "email": "nilson@email.com",
-        "password": "nilson"
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "password": "Nathan"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "password": "Julianne"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "password": "Lucio"
       }
     ]
   }
