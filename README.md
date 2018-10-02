@@ -6,7 +6,7 @@ A Fake REST API using json-server with JWT authentication. You can find the [com
 
 ```bash
 $ npm install
-$ npm run api-auth
+$ node server.js
 ```
 
 ## How to login?
@@ -20,8 +20,8 @@ with the following data
 
 ```
 {
-  "email": "nilson@email.com",
-  "password":"nilson"
+  "email": "Nathan@yesenia.net",
+  "password":"Nathan"
 }
 ```
 
